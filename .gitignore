@@ -10,7 +10,6 @@ override.tf
 override.tf.json
 *_override.tf
 *_override.tf.json
-.terraform.lock.hcl
 
 # Local/editor files
 .DS_Store
